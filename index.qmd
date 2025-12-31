@@ -5,7 +5,7 @@ date: "2025-12-31"
 lang: it
 ---
 
-![](familienfeier.jpg)
+<!-- ![](familienfeier.jpg) -->
 
 ## Aperitivi
 - Bitter
