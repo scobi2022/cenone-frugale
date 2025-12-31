@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cena Frugale",
-    "section": "",
-    "text": "Bitter\nCocktail"
-  },
-  {
     "objectID": "index.html#aperitivi",
     "href": "index.html#aperitivi",
     "title": "Cena Frugale",
-    "section": "",
-    "text": "Bitter\nCocktail"
+    "section": "Aperitivi",
+    "text": "Aperitivi\n\nBitter\nCocktail"
   },
   {
     "objectID": "index.html#antipasti",
